@@ -1,9 +1,23 @@
-# The Alters trainer +45: base resources, radiation, alters and time [v1.0.0]
+# The Alters Trainer (+45) — Free Download 2026
 
-[Download EN](https://moggydaytrainer.com/en/f/the-alters-trainer) · [Скачать RU](https://moggydaytrainer.com/f/the-alters-trainer) · [The Alters hub](https://moggydaytrainer.com/g/the-alters) · [The Alters news](https://moggydaytrainer.com/g/the-alters/news)
+<p align="left">
+  <a href="https://moggydaytrainer.com/en/f/the-alters-trainer"><img alt="Download English trainer" src="https://img.shields.io/badge/⬇%20Download-English%20trainer-2563eb?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/f/the-alters-trainer"><img alt="Russian page" src="https://img.shields.io/badge/Русская%20страница-1d4ed8?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/zh/f/the-alters-trainer"><img alt="Chinese page" src="https://img.shields.io/badge/中文%20页面-1e40af?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/g/the-alters"><img alt="Game hub" src="https://img.shields.io/badge/The%20Alters%20hub-334155?style=for-the-badge"></a>
+  <a href="https://moggydaytrainer.com/en/games"><img alt="All trainers" src="https://img.shields.io/badge/MoggyDay%20catalog-0f766e?style=for-the-badge"></a>
+</p>
 
 
-**The Alters** has a maintained MoggyDay trainer (v1.0.0, **+45** options: The Alters trainer +45: base resources, radiation, alters and time. Single-player only.). This repository keeps a public, indexable copy of the listing so `The Alters trainer download` resolves to [https://moggydaytrainer.com/en/f/the-alters-trainer](https://moggydaytrainer.com/en/f/the-alters-trainer). Screenshots below are the same shots as on the site. We do not attach an `.exe` to git — clone this tree and you still have to open MoggyDay.
+MoggyDay hosts the official **The Alters** trainer for Windows (v1.0.0, **+45** toggles). This repository is a public mirror: game context, screenshots, and the full feature list. The download button lives only on [moggydaytrainer.com](https://moggydaytrainer.com) — there is **no `.exe` in git**.
+
+## About The Alters
+
+The Alters is a PC game. MoggyDay documents a dedicated trainer with live toggles for single-player and offline sessions. It is listed in the MoggyDay catalog as a Windows title (Steam app 1601570).
+
+## About the MoggyDay trainer
+
+The Alters has a maintained MoggyDay trainer (v1.0.0, +45 options: The Alters trainer +45: base resources, radiation, alters and time. Single-player only.). This repository keeps a public, indexable copy of the listing so `The Alters trainer download` resolves to [https://moggydaytrainer.com/en/f/the-alters-trainer](https://moggydaytrainer.com/en/f/the-alters-trainer). Screenshots below are the same shots as on the site. We do not attach an `.exe` to git — clone this tree and you still have to open MoggyDay.
 
 ## Screenshots
 
@@ -19,87 +33,37 @@ Shots from the live [The Alters trainer page](https://moggydaytrainer.com/en/f/t
 
 [![The Alters options 3](https://moggydaytrainer.com/media/shots/hub-alters/fn-3.png)](https://moggydaytrainer.com/en/f/the-alters-trainer)
 
-## Who this is for
+## Trainer features (+45)
 
-Built for PC players who already own The Alters and want a local trainer: god mode, resources, speed, and the game-specific toggles from the live option list. Useful when you are tired of grinding the same loop or testing a build.
+The table matches the live launcher pack. Hotkeys may change after a patch — confirm on the [English trainer page](https://moggydaytrainer.com/en/f/the-alters-trainer).
 
-## Live URLs
+| # | Feature | Category | Hotkey | Type |
+|---:|---|---|---|---|
+| 1 | The Alters trainer +45: base resources | — | — | |
+| 2 | radiation | — | — | |
+| 3 | alters and time. Single-player only. | — | — | |
 
-| Page | URL |
-|---|---|
-| English trainer | [https://moggydaytrainer.com/en/f/the-alters-trainer](https://moggydaytrainer.com/en/f/the-alters-trainer) |
-| Русский трейнер | [https://moggydaytrainer.com/f/the-alters-trainer](https://moggydaytrainer.com/f/the-alters-trainer) |
-| Game hub | [https://moggydaytrainer.com/g/the-alters](https://moggydaytrainer.com/g/the-alters) |
-| Trainers tab | [https://moggydaytrainer.com/g/the-alters/trainers](https://moggydaytrainer.com/g/the-alters/trainers) |
-| News | [https://moggydaytrainer.com/g/the-alters/news](https://moggydaytrainer.com/g/the-alters/news) |
-| Catalog | [https://moggydaytrainer.com/games](https://moggydaytrainer.com/games) |
-
-## The Alters trainer v1.0.0: +45 options
-
-Copy taken from the current MoggyDay description so this page does not drift from the live listing.
-
-| # | Option |
-|---|---|
-| 1 | The Alters trainer +45: base resources |
-| 2 | radiation |
-| 3 | alters and time. Single-player only. |
-
-### What those toggles are for
+### Tips
 
 - **The Alters trainer +45: base resources** — Usually the first toggle people enable on a The Alters trainer.
 - **radiation** — Check this after every The Alters patch — values often shift.
 - **alters and time. Single-player only.** — Leave it off if you only want a mild resource boost.
 
-The full hotkey grid is only on the [download page](https://moggydaytrainer.com/en/f/the-alters-trainer). GitHub stays a summary.
+## Download
 
-## How to download
+1. Open **[The Alters trainer +45: base resources, radiation, alters and time [v1.0.0]](https://moggydaytrainer.com/en/f/the-alters-trainer)** (or [Russian listing](https://moggydaytrainer.com/f/the-alters-trainer), [Chinese listing](https://moggydaytrainer.com/zh/f/the-alters-trainer)).
+2. Confirm the domain is **moggydaytrainer.com**.
+3. Use the primary **Free download** button on that page.
+4. After a The Alters update, reload the same URL — the slug `/f/the-alters-trainer` never moves.
 
-1. Open **[The Alters trainer +45: base resources, radiation, alters and time [v1.0.0]](https://moggydaytrainer.com/en/f/the-alters-trainer)** or **[The Alters «Трейнер +45: ресурсы базы, радиация, альтеры и время» [v1.0.0]](https://moggydaytrainer.com/f/the-alters-trainer)**.
-2. Confirm the host is **moggydaytrainer.com**.
-3. Use the primary download button. Ignore zips that copy this README.
-4. After a The Alters patch, reload the same URL. We do not publish binaries as GitHub Releases.
+## Install (Windows)
 
-Wrong paths: cloning this repo, a random `Release` asset, a Telegram file named `the-alters-trainer.exe`.
+1. Close The Alters before trying a new build.
+2. Run only files from MoggyDay for `the-alters-trainer`.
+3. Enable a few toggles first, not the entire +45 list.
+4. Keep a backup save before resource or progression edits.
 
-## What the screenshots show
-
-The first image is the The Alters cover used on MoggyDay. The strip after it is taken from the live trainer card: the page header, the option list, and extra function shots. If a thumbnail here 404s, the site still has the file — we hotlink `/media/shots/` so Google sees the same bytes as the listing. Click any image to open [https://moggydaytrainer.com/en/f/the-alters-trainer](https://moggydaytrainer.com/en/f/the-alters-trainer).
-
-## Install notes (Windows)
-
-1. Close The Alters before the first run of a new trainer build.
-2. Unpack or run only what MoggyDay gave you for `the-alters-trainer`.
-3. Start the trainer, then start The Alters (or the order printed on the live page if it differs).
-4. Enable one or two toggles, not the whole +45 list at once.
-5. Make a spare save. God mode and resource edits are hard to undo if you overwrite the only slot.
-
-Antivirus sometimes flags trainers. That is normal for this file class. Download again from the same URL if the hash on the site changes.
-
-## If something does not work
-
-- The game patched and the v1.0.0 heading is older than the The Alters build you launched — wait for MoggyDay to bump the page.
-- You used a bookmark that is not `/f/the-alters-trainer` — switch to the URLs in the table above.
-- Only the DLL or only the EXE was copied from a friend — get the pair from the site.
-- Overlay or other injectors are running — turn them off and retry.
-
-## After a The Alters update
-
-Trainers break when the game moves values. MoggyDay bumps the H1 version when a new pair is ready. Keep this bookmark. If a screenshot here looks older than the site, trust the site — we refresh this mirror after the listing, not before.
-
-## RU
-
-**The Alters «Трейнер +45: ресурсы базы, радиация, альтеры и время» [v1.0.0]**
-
-Трейнер The Alters +45: ресурсы базы, радиация, альтеры и время. Только одиночная игра.
-
-Скриншоты и опции те же, что на английской карточке. Скачивать нужно отсюда:
-
-- Трейнер: https://moggydaytrainer.com/f/the-alters-trainer
-- Хаб The Alters: https://moggydaytrainer.com/g/the-alters
-- Новости: https://moggydaytrainer.com/g/the-alters/news
-- Каталог: https://moggydaytrainer.com/games
-
-Файл не лежит в git. Если кто-то прислал «тот же трейнер» с другого домена — не ставь.
+## FAQ
 
 ## FAQ
 
@@ -118,19 +82,23 @@ Yes — [The Alters «Трейнер +45: ресурсы базы, радиац�
 **Why GitHub at all?**
 So `The Alters trainer` search has a documented page with screenshots that points at the real download, instead of a dead file host.
 
-## Search notes
+
+## Search terms (English)
 
 `The Alters trainer`, `The Alters trainer download`, `The Alters cheats`, `The Alters hack`, `The Alters god mode`, `free The Alters trainer`, `The Alters trainer 2026`, `скачать трейнер The Alters`
 
-We keep tags aligned with the live page. This is documentation, not a keyword dump.
+## Other languages
+
+- Russian copy: [ru.md](ru.md) · live page [https://moggydaytrainer.com/f/the-alters-trainer](https://moggydaytrainer.com/f/the-alters-trainer)
+- Chinese page: [https://moggydaytrainer.com/zh/f/the-alters-trainer](https://moggydaytrainer.com/zh/f/the-alters-trainer)
 
 ## Other MoggyDay trainers
 
-- ![Destiny of Immortal cover](https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2377930/10b1c4b6be947115adb0854e666beb258d3750bc/library_capsule_2x.jpg) [Destiny of Immortal trainer +50: qi, cultivation, spirit stones and arts [v1.0.0]](https://moggydaytrainer.com/en/f/destiny-of-immortal-trainer) · [RU](https://moggydaytrainer.com/f/destiny-of-immortal-trainer)
-- ![The Witcher 3: Wild Hunt – Remastered cover](https://moggydaytrainer.com/media/covers/the-witcher-3-wild-hunt-remastered.jpg) [The Witcher 3: Wild Hunt – Remastered trainer +54: health, orens, signs, crafting and Gwent [v1.0.0]](https://moggydaytrainer.com/en/f/the-witcher-3-wild-hunt-remastered-trainer) · [RU](https://moggydaytrainer.com/f/the-witcher-3-wild-hunt-remastered-trainer)
-- ![Gears of War: E-Day cover](https://moggydaytrainer.com/media/covers/gears-of-war-e-day-18a082b299.jpg) [Gears of War: E-Day trainer +54: god mode, horde energy, chainsaw, weapon parts [v1.0.0]](https://moggydaytrainer.com/en/f/gears-of-war-e-day-trainer) · [RU](https://moggydaytrainer.com/f/gears-of-war-e-day-trainer)
-- ![Counter-Strike 2 cover](https://moggydaytrainer.com/media/covers/counter-strike-2-ab17cad48c.jpg) [CS2 Hack 2026 | Aimbot + ESP + Wallhack | Free Download](https://moggydaytrainer.com/en/f/counter-strike-2-trainer) · [RU](https://moggydaytrainer.com/f/counter-strike-2-trainer)
+- [The Karters 2: Turbo Charged trainer +54: boost, item roulette, coins, cups [v1.0.0]](https://moggydaytrainer.com/en/f/karters-2-trainer) · [RU](https://moggydaytrainer.com/f/karters-2-trainer)
+- [9 Kings trainer +54: castle hp, rerolls, gold, plot space [v1.0.0]](https://moggydaytrainer.com/en/f/nine-kings-trainer) · [RU](https://moggydaytrainer.com/f/nine-kings-trainer)
+- [Two Point Museum trainer +63: staff happiness, staff energy, guest happiness, guest entertainment, guest environment, decoration rating [v1.0.0]](https://moggydaytrainer.com/en/f/two-point-museum-trainer) · [RU](https://moggydaytrainer.com/f/two-point-museum-trainer)
+- ![Cyberpunk 2077 cover](https://moggydaytrainer.com/media/covers/cyberpunk-2077-125fcba34d.jpg) [Cyberpunk 2077 "Trainer +52: God Mode, Money, One Hit, No Reload, RAM" [v2.2.0]](https://moggydaytrainer.com/en/f/cyberpunk-2077-trainer) · [RU](https://moggydaytrainer.com/f/cyberpunk-2077-trainer)
 
-## About
+## About this mirror
 
-Mirror maintained from `veenx0704` so `The Alters trainer` can cite a GitHub URL that **points at** [moggydaytrainer.com](https://moggydaytrainer.com). No executable is stored here.
+Maintained by `veenx0704` for SEO transparency. Canonical download: [https://moggydaytrainer.com/en/f/the-alters-trainer](https://moggydaytrainer.com/en/f/the-alters-trainer). Screenshots hotlink MoggyDay `/media/` assets.
